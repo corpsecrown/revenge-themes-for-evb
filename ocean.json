@@ -1,0 +1,60 @@
+{
+  "name": "Ocean Theme",
+  "description": "Ocean Vibe Theme",
+  "authors": [
+    {
+      "name": "Merbious",
+      "id": "1180228592249090224"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_MENTIONED": ["#009dff33"],
+    "MENTION_BACKGROUND": ["#009dff"],
+    "TEXT_MENTION": ["#66cfff"],
+    "TEXT_DEFAULT": ["#ffffff"],
+
+    "INPUT_BACKGROUND": ["#000000", "#000000", "#000000"],
+
+    "CHANNEL_ICON": ["#66cfff"],
+
+    "INTERACTIVE_NORMAL": ["#0057ff"],
+    "INTERACTIVE_HOVER": ["#00bfff"],
+    "INTERACTIVE_ACTIVE": ["#0057ff"],
+    "INTERACTIVE_MUTED": ["#0057ff60"],
+
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#0057ff"],
+
+    "BUTTON_OUTLINE_BRAND_BACKGROUND": ["#00bfff"],
+    "BUTTON_OUTLINE_BRAND_BOARDER": ["#0057ff"],
+
+    "INPUT_BORDER": ["#0057ff"],
+    "INPUT_BORDER_FOCUS": ["#00bfff"],
+
+    "BACKGROUND_MODIFIER_HOVER": ["#00bfff20"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#0057ff30"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#0057ff40"],
+
+    "SCROLLBAR_THIN_THUMB": ["#00bfff"],
+    "SCROLLBAR_THIN_TRACK": ["#0057ff20"],
+    "SCROLLBAR_AUTO_TRACK": ["#0057ff20"],
+
+    "FOCUS_PRIMARY": ["#0057ff"],
+    "FOCUS_SECONDARY": ["#00bfff"],
+
+    "BACKGROUND_FLOATING": ["#050b14"],
+    "BACKGROUND_NESTED_FLOATING": ["#050b14"]
+  },
+
+  "background": {
+    "url": "https://raw.githubusercontent.com/corpsecrown/revenge-themes-for-evb/refs/heads/main/OceanVibe.jpg",
+    "alpha": 0,
+    "blur": 0
+  },
+
+  "rawColors": {
+    "BRAND_360": "#00bfff",
+    "BRAND_500": "#0057ff",
+
+    "PRIMARY_700": "#000000",
+    "PRIMARY_230": "#050b
