@@ -1,6 +1,6 @@
 {
-  "name": "Ocean Theme",
-  "description": "Ocean Vibe Theme",
+  "name": "Ocean Vibe",
+  "description": "Deep ocean inspired theme with aqua and blue tones.",
   "authors": [
     {
       "name": "Merbious",
@@ -9,52 +9,72 @@
   ],
   "spec": 2,
   "semanticColors": {
-    "BACKGROUND_MENTIONED": ["#009dff33"],
-    "MENTION_BACKGROUND": ["#009dff"],
-    "TEXT_MENTION": ["#66cfff"],
+    "BACKGROUND_MENTIONED": ["#00cfff33"],
+    "MENTION_BACKGROUND": ["#00CFFF"],
+    "TEXT_MENTION": ["#00CFFF"],
     "TEXT_DEFAULT": ["#ffffff"],
-
-    "INPUT_BACKGROUND": ["#000000", "#000000", "#000000"],
-
-    "CHANNEL_ICON": ["#66cfff"],
-
-    "INTERACTIVE_NORMAL": ["#0057ff"],
-    "INTERACTIVE_HOVER": ["#00bfff"],
-    "INTERACTIVE_ACTIVE": ["#0057ff"],
-    "INTERACTIVE_MUTED": ["#0057ff60"],
-
-    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#0057ff"],
-
-    "BUTTON_OUTLINE_BRAND_BACKGROUND": ["#00bfff"],
-    "BUTTON_OUTLINE_BRAND_BOARDER": ["#0057ff"],
-
-    "INPUT_BORDER": ["#0057ff"],
-    "INPUT_BORDER_FOCUS": ["#00bfff"],
-
-    "BACKGROUND_MODIFIER_HOVER": ["#00bfff20"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#0057ff30"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#0057ff40"],
-
-    "SCROLLBAR_THIN_THUMB": ["#00bfff"],
-    "SCROLLBAR_THIN_TRACK": ["#0057ff20"],
-    "SCROLLBAR_AUTO_TRACK": ["#0057ff20"],
-
-    "FOCUS_PRIMARY": ["#0057ff"],
-    "FOCUS_SECONDARY": ["#00bfff"],
-
-    "BACKGROUND_FLOATING": ["#050b14"],
-    "BACKGROUND_NESTED_FLOATING": ["#050b14"]
+    "INPUT_BACKGROUND": ["#0b1117", "#0b1117", "#0b1117"],
+    "CHANNEL_ICON": ["#7fffd4"],
+    "INTERACTIVE_NORMAL": ["#0088ff"],
+    "INTERACTIVE_HOVER": ["#00cfff"],
+    "INTERACTIVE_ACTIVE": ["#0088ff"],
+    "INTERACTIVE_MUTED": ["#0088ff60"],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#0088ff"],
+    "BUTTON_OUTLINE_BRAND_BACKGROUND": ["#7fffd4"],
+    "BUTTON_OUTLINE_BRAND_BOARDER": ["#0088ff"],
+    "INPUT_BORDER": ["#0088ff"],
+    "INPUT_BORDER_FOCUS": ["#00cfff"],
+    "BACKGROUND_MODIFIER_HOVER": ["#00cfff20"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#0088ff30"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#0088ff40"],
+    "SCROLLBAR_THIN_THUMB": ["#00cfff"],
+    "SCROLLBAR_THIN_TRACK": ["#0088ff20"],
+    "SCROLLBAR_AUTO_TRACK": ["#0088ff20"],
+    "FOCUS_PRIMARY": ["#0088ff"],
+    "FOCUS_SECONDARY": ["#00cfff"],
+    "BACKGROUND_FLOATING": ["#101820"],
+    "BACKGROUND_NESTED_FLOATING": ["#101820"]
   },
-
   "background": {
-    "url": "https://raw.githubusercontent.com/corpsecrown/revenge-themes-for-evb/refs/heads/main/OceanVibe.jpg",
+    "url": "",
     "alpha": 0,
     "blur": 0
   },
-
   "rawColors": {
-    "BRAND_360": "#00bfff",
-    "BRAND_500": "#0057ff",
+    "BRAND_360": "#00CFFF",
+    "BRAND_500": "#0088FF",
 
-    "PRIMARY_700": "#000000",
-    "PRIMARY_230": "#050b
+    "PRIMARY_700": "#081018",
+    "PRIMARY_230": "#0b1117",
+    "PRIMARY_300": "#081018",
+    "YELLOW_260": "#00cfff",
+    "PLUM_1": "#00cfff",
+    "PLUM_3": "#0088ff",
+    "PLUM_11": "#0088ff",
+    "PLUM_13": "#0088ff",
+    "PLUM_16": "#7fffd4",
+    "GREEN_360": "#0088ff",
+    "YELLOW_300": "#00cfff",
+    "ORANGE_345": "#00cfff",
+    "PLUM_15": "#101820",
+    "PLUM_17": "#0b1117",
+    "PLUM_18": "#0b1117",
+    "PLUM_19": "#101820",
+    "PLUM_20": "#081018",
+    "PLUM_22": "#081018",
+    "PLUM_23": "#101820",
+    "PLUM_24": "#101820"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": ["#00cfff"],
+      "StatusStreaming": ["#0088ff"],
+      "StatusMobileOnline": ["#7fffd4"],
+      "StatusDND": ["#00cfff"],
+      "StatusOffline": ["#0088ff"],
+      "StatusOnline": ["#7fffd4"]
+    }
+  }
+}
