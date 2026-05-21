@@ -1,0 +1,96 @@
+{
+  "name": "Black Purple Theme",
+  "description": "Pure black and purple EVB theme.",
+  "authors": [
+    {
+      "name": "Merbious",
+      "id": "1180228592249090224"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "BACKGROUND_MENTIONED": ["#7d3cff33"],
+    "MENTION_BACKGROUND": ["#7D3CFF"],
+    "TEXT_MENTION": ["#B48CFF"],
+    "TEXT_DEFAULT": ["#ffffff"],
+
+    "INPUT_BACKGROUND": ["#000000", "#000000", "#000000"],
+
+    "CHANNEL_ICON": ["#B48CFF"],
+
+    "INTERACTIVE_NORMAL": ["#7D3CFF"],
+    "INTERACTIVE_HOVER": ["#B48CFF"],
+    "INTERACTIVE_ACTIVE": ["#7D3CFF"],
+    "INTERACTIVE_MUTED": ["#7D3CFF60"],
+
+    "REDESIGN_BUTTON_SECONDARY_BORDER": ["#7D3CFF"],
+    "BUTTON_OUTLINE_BRAND_BACKGROUND": ["#7D3CFF"],
+    "BUTTON_OUTLINE_BRAND_BOARDER": ["#B48CFF"],
+
+    "INPUT_BORDER": ["#7D3CFF"],
+    "INPUT_BORDER_FOCUS": ["#B48CFF"],
+
+    "BACKGROUND_MODIFIER_HOVER": ["#7D3CFF25"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#7D3CFF35"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#7D3CFF45"],
+
+    "SCROLLBAR_THIN_THUMB": ["#7D3CFF"],
+    "SCROLLBAR_THIN_TRACK": ["#7D3CFF20"],
+    "SCROLLBAR_AUTO_TRACK": ["#7D3CFF20"],
+
+    "FOCUS_PRIMARY": ["#7D3CFF"],
+    "FOCUS_SECONDARY": ["#B48CFF"],
+
+    "BACKGROUND_FLOATING": ["#050505"],
+    "BACKGROUND_NESTED_FLOATING": ["#050505"]
+  },
+
+  "background": {
+    "url": "https://raw.githubusercontent.com/corpsecrown/revenge-themes-for-evb/refs/heads/main/3d47ace89066775cc1087d53570f6ea1.jpg",
+    "alpha": 0.65,
+    "blur": 0.4
+  },
+
+  "rawColors": {
+    "BRAND_360": "#B48CFF",
+    "BRAND_500": "#7D3CFF",
+
+    "PRIMARY_700": "#000000",
+    "PRIMARY_230": "#050505",
+    "PRIMARY_300": "#0A0A0A",
+
+    "YELLOW_260": "#7D3CFF",
+    "YELLOW_300": "#B48CFF",
+
+    "PLUM_1": "#B48CFF",
+    "PLUM_3": "#7D3CFF",
+    "PLUM_11": "#7D3CFF",
+    "PLUM_13": "#7D3CFF",
+    "PLUM_15": "#050505",
+    "PLUM_16": "#B48CFF",
+    "PLUM_17": "#0A0A0A",
+    "PLUM_18": "#0A0A0A",
+    "PLUM_19": "#050505",
+    "PLUM_20": "#000000",
+    "PLUM_22": "#000000",
+    "PLUM_23": "#050505",
+    "PLUM_24": "#050505",
+
+    "GREEN_360": "#7D3CFF",
+    "ORANGE_345": "#B48CFF"
+  },
+
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+
+    "icons": {
+      "ic_new_pins": ["#B48CFF"],
+      "StatusStreaming": ["#7D3CFF"],
+      "StatusMobileOnline": ["#B48CFF"],
+      "StatusDND": ["#7D3CFF"],
+      "StatusOffline": ["#5A3A99"],
+      "StatusOnline": ["#B48CFF"]
+    }
+  }
+}
